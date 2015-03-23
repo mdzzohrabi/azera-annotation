@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "doctrine/annotations": "dev-master"
+        "doctrine/annotations": "dev-mdzzohrabi-patch-annotation-constructor-context"
     },
     "autoload": {
         "psr-4": {
