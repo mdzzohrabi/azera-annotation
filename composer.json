@@ -1,0 +1,32 @@
+{
+    "name": "mdzzohrabi/azera-annotation",
+    "description": "Azera Annotation Component",
+    "type": "library",
+    "keywords": [
+        "annotaion",
+        "azera",
+        "component"
+    ],
+    "authors": [
+        {
+            "name": "Masoud Zohrabi",
+            "email": "mdzzohrabi@gmail.com"
+        }
+    ],
+    "license": "proprietary",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mdzzohrabi/annotations"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "doctrine/annotations": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Azera\\Annotation\\": ""
+        }
+    }
+}
