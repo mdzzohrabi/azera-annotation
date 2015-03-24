@@ -16,7 +16,7 @@
     "license": "proprietary",
     "require": {
         "php": ">=5.3",
-        "mdzzohrabi/annotations": "dev-master"
+        "mdzzohrabi/annotations": "1.3.1"
     },
     "autoload": {
         "psr-4": {
