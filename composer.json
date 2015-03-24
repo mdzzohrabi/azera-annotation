@@ -14,15 +14,9 @@
         }
     ],
     "license": "proprietary",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mdzzohrabi/annotations"
-        }
-    ],
     "require": {
         "php": ">=5.3",
-        "doctrine/annotations": "dev-mdzzohrabi-patch-annotation-constructor-context"
+        "mdzzohrabi/annotations": "dev-master"
     },
     "autoload": {
         "psr-4": {
